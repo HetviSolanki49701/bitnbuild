@@ -16,25 +16,25 @@ export default function Navbar() {
                 <div className="items-center justify-between hidden w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">
                     <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:mt-0 ml-[10rem]">
                         <li>
-                            <a href="#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Home</a>
+                            <a href="/#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Home</a>
                         </li>
                         <li>
-                            <a href="#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Consult</a>
+                            <a href="/#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Consult</a>
                         </li>
                         <li>
-                            <a href="#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Book Lab Test</a>
+                            <a href="/#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Book Lab Test</a>
                         </li>
                         <li>
-                            <a href="#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Find Medicine</a>
+                            <a href="/#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Find Medicine</a>
                         </li>
                         <li>
-                            <a href="#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Take Survey</a>
+                            <a href="/#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Take Survey</a>
                         </li>
                         <li>
-                            <a href="#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Buy Products</a>
+                            <a href="/#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Buy Products</a>
                         </li>
                         <li>
-                            <a href="#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Articles</a>
+                            <a href="/#" className="block py-2 pl-3 pr-4 text-white hover:text-customLight">Articles</a>
                         </li>
                     </ul>
                 </div>

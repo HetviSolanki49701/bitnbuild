@@ -13,6 +13,8 @@ module.exports = {
         'ourdblue': "#2F374B",
         'ourblack': "#171717",
         'subtext': "#686868",
+        'customLight': '#D772EA',
+        'customDark': '#9356FB',
         'btn-right': '#D772EA',
         'btn-left': '#9356FB'
       },

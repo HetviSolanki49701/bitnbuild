@@ -1,10 +1,10 @@
 import './App.css';
 import {BrowserRouter, Routes, Route } from "react-router-dom"
-import About from './Pages/About';
-import Home from './Pages/landing/Home';
-import DoctorLogin from './Pages/DoctorLogin';
-import PatientRegister from './Pages/PatientRegister';
-import TestLanding from './Pages/landing/TestLanding';
+import About from './pages/About';
+import Home from './pages/landing/Home';
+import DoctorLogin from './pages/DoctorLogin';
+import PatientRegister from './pages/PatientRegister';
+import TestLanding from './pages/landing/TestLanding';
 
 function App() {
   return (

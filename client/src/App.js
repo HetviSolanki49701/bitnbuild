@@ -6,6 +6,7 @@ import DoctorLogin from "./pages/DoctorLogin";
 import PatientRegister from "./pages/PatientRegister";
 import TestLanding from "./pages/landing/TestLanding";
 import Ocr from "./pages/Ocr";
+import Diabetes from "./pages/Diabetes";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/register" element={<PatientRegister />} />
         {/* <Route path="/test" element={<TestLanding />} /> */}
         <Route path="/ocr" element={<Ocr />} />
+        <Route path="/diabetes" element={<Diabetes />} />
       </Routes>
     </BrowserRouter>
   );
